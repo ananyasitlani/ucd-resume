@@ -46,7 +46,8 @@ body {
 font-family: Roboto, sans-serif;      
 font-weight: 300;      
 background-color: #525252;      
-color: #555555;  } 
+color: #555555;
+} 
 
 /*--------------------------------------------Special Paddings/Margins/Text*/
 
@@ -369,7 +370,7 @@ button[type="submit"]{
 
 .center-form {
     padding-top: 30px;
-    min-height: 240px
+    min-height: 240px;
     margin: 0 auto;
     max-width: 50%;
 }
